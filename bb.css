@@ -1,0 +1,138 @@
+.va1{
+    border: 2px solid;
+    margin: 10px;
+    display: inline-block;
+    width:50%;
+    background-color:#808000;
+
+    
+
+}
+.va2{
+    border: 2px solid;
+    margin: 10px;
+    width:50%;
+    display: inline-block;
+    background-color: rgb(54, 52, 31);
+
+}
+.va3{
+    border: 2px solid;
+    margin: 10px;
+    width: 50%;
+    display: inline-block;
+    background-color: rgb(255, 255, 0);
+
+}
+.va4{
+    border: 2px solid;
+    margin: 10px;
+    width: 50%;
+    display: inline-block;
+    background-color: blueviolet;
+
+
+}
+.va5{
+    border: 2px solid;
+    margin: 10px;
+    width: 50%;
+    display: inline-block;
+    background-color:sandybrown;
+
+
+}
+.va6{
+    border: 2px solid;
+    margin: 10px;
+    display: inline-block;
+    width: 50%;
+    background-color: rgb(226, 43, 43);
+
+}
+.va7{
+    border: 2px solid;
+    margin: 10px;
+    display: inline-block;
+    width: 50%;
+    background-color: navy;
+    
+
+}
+.va8{
+    border: 2px solid;
+    margin: 10px;
+    display: inline-block;
+    width: 50%;
+    background-color:rgb(255, 255, 0);
+
+}
+.va9{
+    border: 2px solid;
+    margin: 10px;
+    display: inline-block;
+    width: 25%;
+    background-color: chocolate;
+
+}
+.va10{
+    border: 2px solid;
+    margin: 10px;
+    display: inline-block;
+    background-color:slategrey;
+    width: 25%;
+
+}
+.va11{
+    border: 2px solid;
+    margin: 10px;
+    display: inline-block;
+    width: 25%;
+    background-color:slateblue;
+
+}
+.va12{
+    border: 2px solid;
+    margin: 10px;
+    width: 25%;
+    display: inline-block;
+    background-color:rgb(91, 123, 156);
+
+}
+.va13{
+    border: 2px solid;
+    margin: 10px;
+    display: inline-block;
+    width: 25%;
+    background-color:aquamarine;
+
+}
+.va14{
+    border: 2px solid;
+    margin: 10px;
+    width: 25%;
+    display: inline-block;
+    background-color:grey;
+
+}
+.va15{
+    border: 2px solid;
+    margin: 10px;
+    width: 25%;
+    display: inline-block;
+    background-color:khaki;
+
+}
+.va16{
+    border: 2px solid;
+    margin: 10px;
+    display: inline-block;
+    width: 25%;
+    background-color:sienna;
+
+}
+.va{
+    display: flex;
+    margin: 50px;
+}
+
